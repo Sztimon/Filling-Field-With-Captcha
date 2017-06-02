@@ -16,7 +16,7 @@ namespace UnitTestProject1
             var outPutDirectory = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
             return new ChromeDriver(outPutDirectory);
         }
-
+        //do testu gita
         [TestMethod]
         public void Test1()
         {
