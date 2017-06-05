@@ -21,13 +21,21 @@ namespace UnitTestProject1
         public void Test1()
         {
             var driver = GetChromeDriver();
-            driver.Navigate().GoToUrl("http://www.qtptutorial.net/automation-practice");
-
-            //Find an element using an id
-            driver.FindElement(By.Id("idExample"));
-            var idelement = driver.FindElement(By.Id("idExample"));
-            idelement.Click();
+            driver.Navigate().GoToUrl("http://www.ultimateqa.com");
+            Assert.AreEqual("Home - Ultimate QA", driver.Title);
+            driver.Navigate().GoToUrl("http://www.ultimateqa.com/automation");
+            Assert.AreEqual("Automation Practice - Ultimate QA", driver.Title);
+            var locator = By.XPath(".//*[@href='/complicated-page']");
+            var element = driver.FindElement(locator);
+            element.Click();
+            Assert.AreEqual("Complicated Page - Ultimate QA", driver.Title);
             driver.Navigate().Back();
+            Assert.AreEqual("Automation Practice - Ultimate QA", driver.Title);
+
+            //find an element using link text
+            //var linktextelement = driver.findelement(by.linktext("Click Me"));
+            //linktextelement.click();
+            //driver.navigate().back();
         }
     }
 }
