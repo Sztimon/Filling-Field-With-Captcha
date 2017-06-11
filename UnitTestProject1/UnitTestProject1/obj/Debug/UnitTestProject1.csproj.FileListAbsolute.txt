@@ -22,9 +22,6 @@ C:\Users\SzymonK\Desktop\Selenium-git\Selenium\UnitTestProject1\UnitTestProject1
 C:\Users\SzymonK\Desktop\Selenium-git\Selenium\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\Users\SzymonK\Desktop\Selenium-git\Selenium\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
 C:\Users\SzymonK\Desktop\Selenium-git\Selenium\UnitTestProject1\UnitTestProject1\bin\Debug\chromedriver.exe
-C:\Users\SzymonK\Desktop\Selenium-git\Selenium\UnitTestProject1\UnitTestProject1\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
-C:\Users\SzymonK\Desktop\Selenium-git\Selenium\UnitTestProject1\UnitTestProject1\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
-C:\Users\SzymonK\Desktop\Selenium-git\Selenium\UnitTestProject1\UnitTestProject1\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
 C:\Users\SzymonK\Desktop\Selenium-git\Selenium\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
 C:\Users\SzymonK\Desktop\Selenium-git\Selenium\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
 C:\Users\SzymonK\Desktop\Selenium-git\Selenium\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
